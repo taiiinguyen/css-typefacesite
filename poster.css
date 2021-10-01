@@ -40,3 +40,45 @@ p1, p2, p3, p4 {
     position: relative;
     margin: 100px;
 }
+
+#container {
+    margin: auto;
+    max-width: 1650px;
+    margin-bottom: 50px;
+}
+
+.MindySeu {
+    position: relative;
+}
+
+.DanielleAubert {
+    position: relative;
+}
+
+.KellyWalters {
+    position: relative;
+}
+
+.CemEskinazi {
+    position: relative;
+}
+
+body {
+    background-color: honeydew;
+    font-family: 'Roboto Mono', monospace;
+    margin: 3px;
+}
+
+h1 {
+    font-size: 5em;
+    line-height: 1em;
+}
+
+
+p1, p2, p3, p4 {
+    font-size: 1.5em;
+    line-height: 1.45em;
+    max-width: 1500px;
+    position: relative;
+    margin: 100px;
+}
